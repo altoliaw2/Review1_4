@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620286137 source:e:\codeworkshop\codeblock\projectdsalg\review1_4\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+
